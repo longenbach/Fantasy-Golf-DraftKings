@@ -1,0 +1,166 @@
+Team,P1,P2,P3,P4,P5,P6,Metrics,Window ,Cost,AvgPointsPerGame
+1,Dustin Johnson,Tony Finau,Cameron Smith,Joaquin Niemann,Will Zalatoris,Ryan Palmer,AvgPointsPerGame,All Season,"50,000.00",524.8
+2,Jon Rahm,Justin Thomas,Will Zalatoris,Harris English,Corey Conners,Jason Kokrak,"Sum['SG:APR_02674', 'TOP 10_138', '1ST_138']",All Season,"50,000.00",482.55
+3,Bryson DeChambeau,Bubba Watson,Dylan Frittelli,Phil Mickelson,Cameron Champ,Jim Herman,"Sum['%_115', 'AVG_104', '%_160']",All Season,"44,500.00",355.41
+4,Bryson DeChambeau,Bubba Watson,Will Zalatoris,Victor Perez,Shane Lowry,Bernd Wiesberger,"Sum['AVERAGE_02675', 'BIRDIE TO BOGEY RATIO_02415', 'AVG_104']",All Season,"46,300.00",416.34
+5,Jon Rahm,Collin Morikawa,Viktor Hovland,Sergio Garcia,Martin Laird,Stewart Cink,"Sum['1ST_138', '%_103', 'AVG_104']",All Season,"49,600.00",439.1
+6,Bryson DeChambeau,Tony Finau,Daniel Berger,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Sum['AVERAGE_02675', 'TOP 10_138', 'AvgPointsPerGame']",All Season,"49,600.00",524.52
+7,Bryson DeChambeau,Collin Morikawa,Viktor Hovland,Joaquin Niemann,Jason Kokrak,Stewart Cink,"Sum['1ST_138', '%_103', 'AVERAGE_02675']",All Season,"49,500.00",472.96
+8,Jon Rahm,Webb Simpson,Viktor Hovland,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Sum['AvgPointsPerGame', '%_103', 'AVG_104']",All Season,"49,900.00",513.93
+9,Xander Schauffele,Webb Simpson,Daniel Berger,Joaquin Niemann,Jason Kokrak,Ryan Palmer,"Sum['AVERAGE_02564', 'AvgPointsPerGame', '%_103']",All Season,"48,300.00",498.46
+10,Justin Thomas,Patrick Reed,Cameron Smith,Harris English,Justin Rose,Max Homa,"Sum['%_115', 'SG:ARG_02674', 'SG:APR_02674']",All Season,"49,700.00",455.8
+11,Justin Thomas,Collin Morikawa,Tony Finau,Will Zalatoris,Corey Conners,Ryan Palmer,"Sum['SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415', 'SG:APR_02674']",All Season,"50,000.00",496.88
+12,Bryson DeChambeau,Viktor Hovland,Cameron Smith,Joaquin Niemann,Will Zalatoris,Max Homa,"Sum['AVG_104', '%_160', 'AvgPointsPerGame']",All Season,"49,500.00",503.76
+13,Jon Rahm,Xander Schauffele,Will Zalatoris,Harris English,Corey Conners,Jason Kokrak,"Sum['SG:ARG_02674', 'AVERAGE_02564', 'TOP 10_138']",All Season,"49,400.00",482.04
+14,Bryson DeChambeau,Webb Simpson,Daniel Berger,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Sum['BIRDIE TO BOGEY RATIO_02415', 'AvgPointsPerGame', 'AVERAGE_02675']",All Season,"49,500.00",519.97
+15,Justin Thomas,Patrick Reed,Brooks Koepka,Cameron Smith,Carlos Ortiz,Brendon Todd,"Sum['SG:ARG_02674', '%_115', 'AVERAGE_02564']",All Season,"50,000.00",466.25
+16,Christiaan Bezuidenhout,Dylan Frittelli,Kevin Na,Bernd Wiesberger,Martin Laird,Henrik Stenson,"Sum['SG:ARG_02674', 'AVG_104', '1ST_138']",All Season,"38,800.00",328.21
+17,Justin Thomas,Patrick Cantlay,Webb Simpson,Joaquin Niemann,Carlos Ortiz,Ryan Palmer,"Sum['SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AvgPointsPerGame']",All Season,"49,800.00",504.49
+18,Justin Thomas,Patrick Cantlay,Cameron Smith,Louis Oosthuizen,Christiaan Bezuidenhout,Kevin Na,"Sum['SG:ARG_02674', '%_115', '%_160']",All Season,"49,300.00",462.36
+19,Xander Schauffele,Webb Simpson,Louis Oosthuizen,Victor Perez,Jason Kokrak,Zach Johnson,"Sum['TOP 10_138', 'AVG_104', 'AVERAGE_02564']",All Season,"46,700.00",443.84
+20,Justin Thomas,Patrick Cantlay,Webb Simpson,Harris English,Si Woo Kim,Carlos Ortiz,"Sum['TOP 10_138', 'BIRDIE TO BOGEY RATIO_02415', 'SG:ARG_02674']",All Season,"49,900.00",468.83
+21,Justin Thomas,Patrick Cantlay,Cameron Smith,Joaquin Niemann,Harris English,Carlos Ortiz,"Sum['%_115', 'SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415']",All Season,"49,800.00",496.09
+22,Justin Thomas,Patrick Cantlay,Webb Simpson,Louis Oosthuizen,Christiaan Bezuidenhout,Matt Wallace,"Sum['TOP 10_138', 'SG:ARG_02674', 'AVERAGE_02675']",All Season,"50,000.00",446.55
+23,Collin Morikawa,Bubba Watson,Will Zalatoris,Matt Wallace,Bernd Wiesberger,Henrik Stenson,"Sum['SG:APR_02674', 'AVG_104', '1ST_138']",All Season,"43,700.00",367.45
+24,Bryson DeChambeau,Jordan Spieth,Daniel Berger,Harris English,Max Homa,Jason Kokrak,"Sum['%_115', 'TOP 10_138', '1ST_138']",All Season,"50,000.00",455.02
+25,Jon Rahm,Justin Thomas,Will Zalatoris,Harris English,Corey Conners,Jason Kokrak,"Sum['AVERAGE_02675', 'TOP 10_138', '%_115']",All Season,"50,000.00",482.55
+26,Bubba Watson,Victor Perez,Shane Lowry,Dylan Frittelli,Phil Mickelson,Bernd Wiesberger,"Sum['AvgPointsPerGame', 'AVG_104', 'AVERAGE_02675']",All Season,"41,500.00",346.38
+27,Justin Thomas,Collin Morikawa,Daniel Berger,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Sum['SG:APR_02674', '%_103', 'AvgPointsPerGame']",All Season,"49,900.00",508.11
+28,Bryson DeChambeau,Jordan Spieth,Daniel Berger,Harris English,Max Homa,Jason Kokrak,"Sum['1ST_138', 'SG:APR_02674', 'TOP 10_138']",All Season,"50,000.00",455.02
+29,Justin Thomas,Patrick Reed,Cameron Smith,Joaquin Niemann,Harris English,Ryan Palmer,"Sum['%_115', 'AVERAGE_02675', 'AvgPointsPerGame']",All Season,"49,300.00",497.83
+30,Bryson DeChambeau,Patrick Reed,Daniel Berger,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Sum['AVERAGE_02564', '1ST_138', 'AvgPointsPerGame']",All Season,"49,800.00",514.37
+31,Bryson DeChambeau,Viktor Hovland,Daniel Berger,Will Zalatoris,Harris English,Billy Horschel,"Sum['AvgPointsPerGame', '1ST_138', 'TOP 10_138']",All Season,"49,800.00",494.86
+32,Justin Thomas,Patrick Cantlay,Webb Simpson,Joaquin Niemann,Carlos Ortiz,Kevin Na,"Sum['SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415', '%_103']",All Season,"49,800.00",487.05
+33,Bryson DeChambeau,Lee Westwood,Bubba Watson,Will Zalatoris,Shane Lowry,Bernd Wiesberger,"Sum['AVERAGE_02675', 'TOP 10_138', 'AVG_104']",All Season,"48,100.00",416.42
+34,Xander Schauffele,Patrick Reed,Brooks Koepka,Cameron Smith,Max Homa,Brendon Todd,"Sum['%_115', '%_160', 'AVERAGE_02564']",All Season,"50,000.00",458.57
+35,Bryson DeChambeau,Patrick Reed,Viktor Hovland,Joaquin Niemann,Max Homa,Carlos Ortiz,"Sum['%_160', 'AVG_104', 'AVERAGE_02675']",All Season,"49,800.00",482.34
+36,Bubba Watson,Victor Perez,Shane Lowry,Phil Mickelson,Cameron Champ,Jim Herman,"Sum['AvgPointsPerGame', '%_160', 'AVG_104']",All Season,"41,000.00",328.22
+37,Jon Rahm,Webb Simpson,Daniel Berger,Will Zalatoris,Harris English,Corey Conners,"Sum['TOP 10_138', 'BIRDIE TO BOGEY RATIO_02415', '%_160']",All Season,"50,000.00",490.25
+38,Justin Thomas,Collin Morikawa,Tony Finau,Will Zalatoris,Corey Conners,Matt Wallace,"Sum['%_103', 'AVERAGE_02675', 'SG:APR_02674']",All Season,"49,900.00",465.09
+39,Xander Schauffele,Webb Simpson,Daniel Berger,Joaquin Niemann,Jason Kokrak,Stewart Cink,"Sum['AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415', '%_103']",All Season,"47,900.00",479.98
+40,Bryson DeChambeau,Rory McIlroy,Cameron Smith,Harris English,Cameron Champ,Ryan Palmer,"Sum['AVG_104', 'AVERAGE_02675', '%_115']",All Season,"49,600.00",461.24
+41,Jon Rahm,Justin Thomas,Will Zalatoris,Harris English,Corey Conners,Jason Kokrak,"Sum['%_115', 'TOP 10_138', 'SG:ARG_02674']",All Season,"50,000.00",482.55
+42,Cameron Smith,Collin Morikawa,Jason Kokrak,Matt Wallace,Rory McIlroy,Viktor Hovland,"Sum['AVERAGE_02675', '%_103', '%_115']",Last 5,"50,000.00",440.34
+43,Charl Schwartzel,Jon Rahm,Michael Thompson,Sergio Garcia,Tommy Fleetwood,Will Zalatoris,"Sum['AVG_104', '%_103', 'SG:ARG_02674']",Last 5,"46,600.00",423.76
+44,Billy Horschel,Bryson DeChambeau,Collin Morikawa,Jason Kokrak,Matt Wallace,Viktor Hovland,"Sum['SG:OTT_02674', 'BIRDIE TO BOGEY RATIO_02415', '%_115']",Last 5,"49,600.00",443.06
+45,Billy Horschel,Jon Rahm,Phil Mickelson,Sergio Garcia,Si Woo Kim,Will Zalatoris,"Sum['SG:APR_02674', 'AVG_104', '%_103']",Last 5,"46,700.00",439.84
+46,Bryson DeChambeau,Jason Kokrak,Matt Wallace,Matthew Fitzpatrick,Scottie Scheffler,Viktor Hovland,"Sum['%_160', 'SG:OTT_02674', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"49,300.00",434.21
+47,Billy Horschel,Collin Morikawa,Jason Kokrak,Justin Thomas,Matt Wallace,Scottie Scheffler,"Sum['SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415', '%_103']",Last 5,"49,100.00",425.18
+48,Corey Conners,Jason Kokrak,Sergio Garcia,Si Woo Kim,Tyrrell Hatton,Will Zalatoris,"Sum['AVG_104', 'SG:OTT_02674', 'SG:APR_02674']",Last 5,"44,600.00",439.04
+49,Hideki Matsuyama,Louis Oosthuizen,Matt Jones,Matt Wallace,Scottie Scheffler,Viktor Hovland,"Sum['AVERAGE_02674', '%_160', 'SG:ARG_02674']",Last 5,"45,600.00",417.79
+50,Bryson DeChambeau,Cameron Smith,Louis Oosthuizen,Matt Jones,Matt Wallace,Rory McIlroy,"Sum['AVERAGE_02564', 'SG:ARG_02674', '%_115']",Last 5,"49,400.00",449.55
+51,Charl Schwartzel,Martin Laird,Michael Thompson,Sergio Garcia,Tommy Fleetwood,Will Zalatoris,"Sum['AVG_104', '%_103', 'SG:ARG_02674']",Last 5,"41,900.00",395.14
+52,Billy Horschel,Jon Rahm,Phil Mickelson,Sergio Garcia,Tommy Fleetwood,Will Zalatoris,"Sum['AVERAGE_02675', '%_103', 'AVG_104']",Last 5,"48,000.00",442.88
+53,Jason Kokrak,Matt Wallace,Matthew Fitzpatrick,Paul Casey,Sergio Garcia,Will Zalatoris,"Sum['AVG_104', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02675']",Last 5,"44,300.00",427.89
+54,Bryson DeChambeau,Cameron Smith,Jason Kokrak,Matt Wallace,Scottie Scheffler,Viktor Hovland,"Sum['BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02564', '%_115']",Last 5,"49,400.00",452.21
+55,Bryson DeChambeau,Cameron Smith,Justin Thomas,Matt Jones,Matt Wallace,Paul Casey,"Sum['AVERAGE_02675', 'SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"50,000.00",468.58
+56,Collin Morikawa,Corey Conners,Jason Kokrak,Jordan Spieth,Justin Thomas,Matt Wallace,"Sum['AVERAGE_02675', 'AVERAGE_02674', '%_115']",Last 5,"49,800.00",425.58
+57,Billy Horschel,Collin Morikawa,Lee Westwood,Matthew Fitzpatrick,Patrick Reed,Phil Mickelson,"Sum['%_103', 'AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"49,600.00",406.16
+58,Billy Horschel,Jon Rahm,Michael Thompson,Phil Mickelson,Sergio Garcia,Will Zalatoris,"Sum['%_103', 'AVG_104', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"46,100.00",440.89
+59,Collin Morikawa,Corey Conners,Jason Kokrak,Jordan Spieth,Justin Thomas,Matt Wallace,"Sum['SG:APR_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02564']",Last 5,"49,800.00",425.58
+60,Bryson DeChambeau,Matt Wallace,Max Homa,Scottie Scheffler,Sergio Garcia,Viktor Hovland,"Sum['AVERAGE_02674', 'AVERAGE_02675', '%_160']",Last 5,"49,300.00",435.95
+61,Corey Conners,Jordan Spieth,Justin Thomas,Matt Wallace,Paul Casey,Sergio Garcia,"Sum['SG:APR_02674', '%_103', 'AVERAGE_02675']",Last 5,"48,900.00",432.69
+62,Collin Morikawa,Justin Thomas,Matt Wallace,Sebastian Munoz,Sergio Garcia,Viktor Hovland,"Sum['SG:APR_02674', '%_103', '%_115']",Last 5,"49,800.00",434.2
+63,Hideki Matsuyama,Louis Oosthuizen,Matt Wallace,Max Homa,Scottie Scheffler,Viktor Hovland,"Sum['SG:ARG_02674', '%_160', '%_115']",Last 5,"46,400.00",414.92
+64,Billy Horschel,Bryson DeChambeau,Corey Conners,Matthew Fitzpatrick,Max Homa,Sungjae Im,"Sum['AVERAGE_02564', 'SG:OTT_02674', 'AVERAGE_02675']",Last 5,"48,700.00",448.79
+65,Bryson DeChambeau,Matt Wallace,Scottie Scheffler,Sergio Garcia,Viktor Hovland,Will Zalatoris,"Sum['%_160', '%_103', 'AVERAGE_02674']",Last 5,"49,500.00",457.48
+66,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Scottie Scheffler,Sergio Garcia,Viktor Hovland,"Sum['SG:ARG_02674', 'AVERAGE_02674', '%_160']",Last 5,"49,700.00",443.52
+67,Collin Morikawa,Justin Thomas,Matt Wallace,Paul Casey,Sergio Garcia,Will Zalatoris,"Sum['AVERAGE_02674', 'SG:APR_02674', '%_115']",Last 5,"49,500.00",454.96
+68,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Scottie Scheffler,Sergio Garcia,Viktor Hovland,"Sum['%_115', '%_103', '%_160']",Last 5,"49,700.00",443.52
+69,Billy Horschel,Jon Rahm,Patrick Reed,Phil Mickelson,Sergio Garcia,Will Zalatoris,"Sum['%_103', 'AVG_104', '%_115']",Last 5,"49,300.00",455.82
+70,Bryson DeChambeau,Matt Wallace,Matthew Fitzpatrick,Max Homa,Scottie Scheffler,Viktor Hovland,"Sum['AVERAGE_02675', '%_160', 'SG:OTT_02674']",Last 5,"49,500.00",431.36
+71,Billy Horschel,Corey Conners,Louis Oosthuizen,Matthew Fitzpatrick,Patrick Reed,Phil Mickelson,"Sum['%_103', 'AVERAGE_02564', '%_160']",Last 5,"45,600.00",423.76
+72,Hideki Matsuyama,Justin Thomas,Kevin Na,Matt Jones,Matt Wallace,Scottie Scheffler,"Sum['BIRDIE TO BOGEY RATIO_02415', '%_115', 'SG:ARG_02674']",Last 5,"46,500.00",415.81
+73,Billy Horschel,Matthew Fitzpatrick,Max Homa,Michael Thompson,Sungjae Im,Zach Johnson,"Sum['AVERAGE_02564', 'AVG_104', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"43,400.00",416.27
+74,Christiaan Bezuidenhout,Hideki Matsuyama,Kevin Na,Matt Jones,Matt Wallace,Scottie Scheffler,"Sum['BIRDIE TO BOGEY RATIO_02415', 'SG:ARG_02674', '%_160']",Last 5,"42,600.00",386.47
+75,Bryson DeChambeau,Collin Morikawa,Corey Conners,Jason Kokrak,Jordan Spieth,Matt Wallace,"Sum['SG:OTT_02674', 'AVERAGE_02564', 'AVERAGE_02674']",Last 5,"50,000.00",427.9
+76,Billy Horschel,Collin Morikawa,Joaquin Niemann,Jon Rahm,Matthew Fitzpatrick,Phil Mickelson,"Sum['AVERAGE_02564', 'SG:OTT_02674', '%_103']",Last 5,"49,900.00",445.89
+77,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Max Homa,Scottie Scheffler,Viktor Hovland,"Sum['%_160', 'SG:ARG_02674', 'AVERAGE_02675']",Last 5,"48,900.00",439.56
+78,Billy Horschel,Bryson DeChambeau,Cameron Smith,Collin Morikawa,Jason Kokrak,Matt Wallace,"Sum['SG:OTT_02674', 'AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"49,100.00",443.18
+79,Bryson DeChambeau,Cameron Smith,Corey Conners,Jordan Spieth,Matt Wallace,Paul Casey,"Sum['AVERAGE_02674', 'AVERAGE_02675', 'AVERAGE_02564']",Last 5,"49,400.00",448.42
+80,Jordan Spieth,Justin Thomas,Matt Wallace,Paul Casey,Sergio Garcia,Will Zalatoris,"Sum['SG:APR_02674', 'SG:ARG_02674', 'AVERAGE_02674']",Last 5,"49,300.00",448.22
+81,Bryson DeChambeau,Collin Morikawa,Jason Kokrak,Matt Wallace,Sergio Garcia,Will Zalatoris,"Sum['AVG_104', 'AVERAGE_02674', 'SG:OTT_02674']",Last 5,"48,900.00",447.76
+82,Cameron Smith,Carlos Ortiz,Matt Wallace,Patrick Cantlay,Patrick Reed,Tony Finau,"Sum['SG:OTT_02674', 'SG:ARG_02674', '%_115']",Last 10,"49,300.00",461.88
+83,Daniel Berger,Matt Wallace,Patrick Cantlay,Paul Casey,Si Woo Kim,Tony Finau,"Sum['SG:ARG_02674', 'AVERAGE_02674', 'BIRDIE TO BOGEY RATIO_02415']",Last 10,"48,200.00",451.29
+84,Brooks Koepka,Louis Oosthuizen,Phil Mickelson,Sergio Garcia,Tommy Fleetwood,Viktor Hovland,"Sum['AVG_104', '%_103', '%_160']",Last 10,"47,900.00",429.69
+85,Daniel Berger,Patrick Cantlay,Paul Casey,Ryan Palmer,Tony Finau,Will Zalatoris,"Sum['AvgPointsPerGame', 'BIRDIE TO BOGEY RATIO_02415', 'SG:ARG_02674']",Last 10,"48,900.00",510.28
+86,Brooks Koepka,Bryson DeChambeau,Cameron Smith,Carlos Ortiz,Matt Wallace,Viktor Hovland,"Sum['AVERAGE_02675', '%_115', '%_160']",Last 10,"49,800.00",461.41
+87,Cameron Smith,Carlos Ortiz,Kevin Na,Matt Wallace,Patrick Cantlay,Webb Simpson,"Sum['AvgPointsPerGame', '%_115', 'SG:ARG_02674']",Last 10,"46,400.00",446.94
+88,Brooks Koepka,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Max Homa,Viktor Hovland,"Sum['%_160', 'AVERAGE_02675', 'AVG_104']",Last 10,"49,700.00",444.44
+89,Justin Thomas,Matt Wallace,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,"Sum['SG:APR_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02564']",Last 10,"47,300.00",431.57
+90,Brooks Koepka,Corey Conners,Max Homa,Patrick Cantlay,Paul Casey,Tony Finau,"Sum['AVERAGE_02675', '%_160', '%_103']",Last 10,"49,800.00",466.4
+91,Cameron Smith,Carlos Ortiz,Louis Oosthuizen,Patrick Cantlay,Patrick Reed,Paul Casey,"Sum['AVERAGE_02564', 'AVERAGE_02675', 'SG:ARG_02674']",Last 10,"49,000.00",475.79
+92,Brooks Koepka,Carlos Ortiz,Louis Oosthuizen,Patrick Cantlay,Patrick Reed,Paul Casey,"Sum['AVERAGE_02674', '%_103', 'AVERAGE_02564']",Last 10,"50,000.00",464.99
+93,Justin Thomas,Matt Wallace,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,"Sum['SG:APR_02674', 'AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415']",Last 10,"47,300.00",431.57
+94,Collin Morikawa,Justin Thomas,Matt Wallace,Paul Casey,Sergio Garcia,Si Woo Kim,"Sum['%_103', 'AVERAGE_02675', 'SG:APR_02674']",Last 10,"48,900.00",427.76
+95,Cameron Smith,Justin Thomas,Matt Wallace,Patrick Cantlay,Paul Casey,Si Woo Kim,"Sum['AVERAGE_02564', 'AVERAGE_02674', 'SG:APR_02674']",Last 10,"49,400.00",453.56
+96,Brooks Koepka,Collin Morikawa,Matt Wallace,Max Homa,Sergio Garcia,Viktor Hovland,"Sum['%_160', 'SG:APR_02674', 'AVERAGE_02564']",Last 10,"48,900.00",421.96
+97,Cameron Smith,Carlos Ortiz,Louis Oosthuizen,Patrick Cantlay,Patrick Reed,Sungjae Im,"Sum['AVERAGE_02675', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02564']",Last 10,"49,900.00",475.82
+98,Brooks Koepka,Harris English,Matt Wallace,Patrick Cantlay,Sergio Garcia,Viktor Hovland,"Sum['AVG_104', 'AVERAGE_02675', '%_115']",Last 10,"49,300.00",441.85
+99,Brooks Koepka,Matt Wallace,Paul Casey,Sergio Garcia,Tony Finau,Viktor Hovland,"Sum['AVG_104', 'AVERAGE_02674', '%_160']",Last 10,"49,000.00",448.42
+100,Bryson DeChambeau,Cameron Smith,Carlos Ortiz,Harris English,Justin Thomas,Matt Wallace,"Sum['SG:ARG_02674', 'SG:OTT_02674', '%_115']",Last 10,"49,800.00",468.01
+101,Bryson DeChambeau,Cameron Smith,Joaquin Niemann,Patrick Cantlay,Ryan Palmer,Will Zalatoris,"Sum['%_115', 'AVERAGE_02675', 'AvgPointsPerGame']",Last 10,"50,000.00",522.63
+102,Cameron Smith,Collin Morikawa,Matt Wallace,Sergio Garcia,Tony Finau,Viktor Hovland,"Sum['%_115', '%_160', 'SG:APR_02674']",Last 10,"49,900.00",453.22
+103,Brooks Koepka,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,Tony Finau,"Sum['BIRDIE TO BOGEY RATIO_02415', '%_103', 'AVERAGE_02675']",Last 10,"48,600.00",450.11
+104,Brooks Koepka,Corey Conners,Patrick Cantlay,Paul Casey,Si Woo Kim,Tony Finau,"Sum['AVERAGE_02675', '%_160', '%_103']",Last 10,"49,400.00",460.73
+105,Bryson DeChambeau,Joaquin Niemann,Ryan Palmer,Tony Finau,Viktor Hovland,Will Zalatoris,"Sum['SG:OTT_02674', 'AvgPointsPerGame', 'AVERAGE_02675']",Last 10,"49,800.00",524.21
+106,Bryson DeChambeau,Daniel Berger,Joaquin Niemann,Ryan Palmer,Viktor Hovland,Will Zalatoris,"Sum['AVG_104', 'SG:OTT_02674', 'AvgPointsPerGame']",Last 10,"49,200.00",521.31
+107,Billy Horschel,Brooks Koepka,Justin Thomas,Patrick Cantlay,Si Woo Kim,Stewart Cink,"Sum['%_103', '%_115', 'AVERAGE_02564']",Last 10,"49,600.00",447.24
+108,Brendon Todd,Brooks Koepka,Louis Oosthuizen,Matthew Fitzpatrick,Viktor Hovland,Xander Schauffele,"Sum['AVG_104', '%_160', 'AVERAGE_02564']",Last 10,"49,700.00",455.08
+109,Bubba Watson,Matt Wallace,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,"Sum['AVG_104', '%_115', 'BIRDIE TO BOGEY RATIO_02415']",Last 10,"44,500.00",400.89
+110,Bryson DeChambeau,Corey Conners,Daniel Berger,Joaquin Niemann,Patrick Cantlay,Ryan Palmer,"Sum['BIRDIE TO BOGEY RATIO_02415', 'SG:OTT_02674', 'AvgPointsPerGame']",Last 10,"49,900.00",507.29
+111,Bubba Watson,Dylan Frittelli,Kevin Na,Shane Lowry,Stewart Cink,Tommy Fleetwood,"Sum['AVG_104', '%_103', 'SG:ARG_02674']",Last 10,"42,100.00",363.34
+112,Matt Wallace,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,Webb Simpson,"Sum['BIRDIE TO BOGEY RATIO_02415', 'SG:ARG_02674', '%_103']",Last 10,"45,700.00",424.56
+113,Billy Horschel,Brooks Koepka,Daniel Berger,Michael Thompson,Patrick Cantlay,Si Woo Kim,"Sum['SG:OTT_02674', '%_103', 'BIRDIE TO BOGEY RATIO_02415']",Last 10,"47,500.00",438.38
+114,Brooks Koepka,Matt Wallace,Michael Thompson,Patrick Cantlay,Paul Casey,Si Woo Kim,"Sum['AVERAGE_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02564']",Last 10,"45,900.00",415.22
+115,Daniel Berger,Patrick Cantlay,Paul Casey,Si Woo Kim,Tony Finau,Will Zalatoris,"Sum['AvgPointsPerGame', 'AVERAGE_02674', 'BIRDIE TO BOGEY RATIO_02415']",Last 10,"49,100.00",487.25
+116,Brooks Koepka,Bryson DeChambeau,Matt Wallace,Matthew Fitzpatrick,Max Homa,Scottie Scheffler,"Sum['SG:OTT_02674', '%_160', 'SG:ARG_02674']",Last 10,"50,000.00",420.68
+117,Collin Morikawa,Matt Wallace,Paul Casey,Sergio Garcia,Tony Finau,Viktor Hovland,"Sum['%_160', 'AVERAGE_02674', 'SG:OTT_02674']",Last 10,"49,400.00",448.22
+118,Brooks Koepka,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Max Homa,Viktor Hovland,"Sum['SG:ARG_02674', 'BIRDIE TO BOGEY RATIO_02415', '%_160']",Last 10,"49,700.00",444.44
+119,Bryson DeChambeau,Corey Conners,Matt Wallace,Patrick Cantlay,Si Woo Kim,Tony Finau,"Sum['SG:OTT_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02674']",Last 10,"49,700.00",452.6
+120,Corey Conners,Daniel Berger,Jason Kokrak,Patrick Cantlay,Tony Finau,Viktor Hovland,"Sum['SG:OTT_02674', 'AVERAGE_02674', 'AvgPointsPerGame']",Last 10,"49,900.00",485.12
+121,Brooks Koepka,Cameron Smith,Matt Wallace,Patrick Cantlay,Paul Casey,Viktor Hovland,"Sum['SG:APR_02674', 'AVERAGE_02564', '%_160']",Last 10,"50,000.00",460.13
+122,Justin Thomas,Webb Simpson,Daniel Berger,Cameron Smith,Will Zalatoris,Matt Wallace,"Median['SG:APR_02674', 'AVERAGE_02564', 'AvgPointsPerGame']",All Season,"50,000.00",483.1
+123,Bryson DeChambeau,Justin Thomas,Paul Casey,Will Zalatoris,Corey Conners,Lanto Griffin,"Median['SG:APR_02674', 'AvgPointsPerGame', '1ST_138']",All Season,"49,700.00",489.8
+124,Bryson DeChambeau,Webb Simpson,Daniel Berger,Joaquin Niemann,Harris English,Carlos Ortiz,"Median['AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415', '1ST_138']",All Season,"49,500.00",495.75
+125,Bryson DeChambeau,Viktor Hovland,Sergio Garcia,Joaquin Niemann,Corey Conners,Jason Kokrak,"Median['%_103', 'SG:OTT_02674', '1ST_138']",All Season,"48,600.00",477.67
+126,Justin Thomas,Xander Schauffele,Cameron Smith,Will Zalatoris,Harris English,Ryan Palmer,"Median['AvgPointsPerGame', 'SG:APR_02674', '%_115']",All Season,"49,900.00",511.33
+127,Bryson DeChambeau,Viktor Hovland,Scottie Scheffler,Joaquin Niemann,Will Zalatoris,Corey Conners,"Median['%_160', 'SG:APR_02674', 'SG:OTT_02674']",All Season,"49,500.00",494.08
+128,Patrick Reed,Webb Simpson,Matthew Fitzpatrick,Louis Oosthuizen,Joaquin Niemann,Christiaan Bezuidenhout,"Median['%_160', 'SG:ARG_02674', 'AVERAGE_02564']",All Season,"48,000.00",449.11
+129,Jon Rahm,Justin Thomas,Will Zalatoris,Harris English,Corey Conners,Lanto Griffin,"Median['SG:APR_02674', 'AvgPointsPerGame', 'TOP 10_138']",All Season,"49,500.00",479.2
+130,Patrick Cantlay,Tony Finau,Webb Simpson,Louis Oosthuizen,Will Zalatoris,Corey Conners,"Median['TOP 10_138', 'SG:ARG_02674', 'AVERAGE_02675']",All Season,"49,600.00",492.47
+131,Justin Thomas,Patrick Cantlay,Cameron Smith,Joaquin Niemann,Will Zalatoris,Ryan Palmer,"Median['SG:APR_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AvgPointsPerGame']",All Season,"49,800.00",520.31
+132,Jon Rahm,Bryson DeChambeau,Will Zalatoris,Harris English,Corey Conners,Ryan Palmer,"Median['TOP 10_138', 'SG:OTT_02674', '%_115']",All Season,"49,800.00",499.38
+133,Justin Thomas,Patrick Reed,Tyrrell Hatton,Cameron Smith,Ryan Palmer,Matt Wallace,"Median['SG:APR_02674', 'AVERAGE_02564', '%_115']",All Season,"49,900.00",463.9
+134,Jon Rahm,Webb Simpson,Louis Oosthuizen,Joaquin Niemann,Will Zalatoris,Corey Conners,"Median['SG:ARG_02674', 'AVERAGE_02675', '%_103']",All Season,"49,100.00",492.89
+135,Bryson DeChambeau,Webb Simpson,Viktor Hovland,Joaquin Niemann,Abraham Ancer,Ryan Palmer,"Median['%_160', 'BIRDIE TO BOGEY RATIO_02415', '%_103']",All Season,"49,800.00",505.63
+136,Collin Morikawa,Webb Simpson,Sungjae Im,Daniel Berger,Will Zalatoris,Jason Kokrak,"Median['%_103', 'SG:APR_02674', 'AVERAGE_02564']",All Season,"49,900.00",478.86
+137,Jon Rahm,Xander Schauffele,Cameron Smith,Joaquin Niemann,Jason Kokrak,Ryan Palmer,"Median['AVERAGE_02564', '%_103', 'AvgPointsPerGame']",All Season,"50,000.00",501.87
+138,Patrick Cantlay,Tony Finau,Webb Simpson,Louis Oosthuizen,Will Zalatoris,Corey Conners,"Median['SG:ARG_02674', 'AVERAGE_02675', 'TOP 10_138']",All Season,"49,600.00",492.47
+139,Justin Thomas,Xander Schauffele,Cameron Smith,Will Zalatoris,Harris English,Ryan Palmer,"Median['AvgPointsPerGame', 'TOP 10_138', '%_115']",All Season,"49,900.00",511.33
+140,Justin Thomas,Patrick Cantlay,Webb Simpson,Joaquin Niemann,Carlos Ortiz,Ryan Palmer,"Median['TOP 10_138', 'BIRDIE TO BOGEY RATIO_02415', 'AvgPointsPerGame']",All Season,"49,800.00",504.49
+141,Xander Schauffele,Jordan Spieth,Webb Simpson,Louis Oosthuizen,Harris English,Christiaan Bezuidenhout,"Median['AVERAGE_02564', 'TOP 10_138', 'SG:ARG_02674']",All Season,"49,900.00",448.84
+142,Bryson DeChambeau,Jason Kokrak,Justin Thomas,Matt Jones,Matt Wallace,Viktor Hovland,"Median['%_115', 'AVERAGE_02674', 'AvgPointsPerGame']",Last 5,"49,700.00",458.94
+143,Bryson DeChambeau,Jason Kokrak,Matt Jones,Matt Wallace,Rory McIlroy,Scottie Scheffler,"Median['SG:OTT_02674', 'SG:ARG_02674', '%_115']",Last 5,"49,000.00",429.15
+144,Bryson DeChambeau,Cameron Smith,Louis Oosthuizen,Matthew Fitzpatrick,Sungjae Im,Zach Johnson,"Median['%_115', 'AVERAGE_02564', 'AVG_104']",Last 5,"49,500.00",467.53
+145,Collin Morikawa,Justin Thomas,Matt Wallace,Phil Mickelson,Sergio Garcia,Viktor Hovland,"Median['%_103', 'SG:APR_02674', '%_115']",Last 5,"49,800.00",433.04
+146,Bryson DeChambeau,Matthew Fitzpatrick,Max Homa,Scottie Scheffler,Sergio Garcia,Will Zalatoris,"Median['AVG_104', '%_160', 'SG:OTT_02674']",Last 5,"49,600.00",454.03
+147,Bryson DeChambeau,Matt Wallace,Scottie Scheffler,Sergio Garcia,Viktor Hovland,Will Zalatoris,"Median['%_103', 'AVERAGE_02674', '%_160']",Last 5,"49,500.00",457.48
+148,Bryson DeChambeau,Justin Thomas,Kevin Na,Matt Jones,Paul Casey,Will Zalatoris,"Median['AVERAGE_02674', 'SG:ARG_02674', 'AvgPointsPerGame']",Last 5,"49,200.00",487.09
+149,Bryson DeChambeau,Collin Morikawa,Matt Wallace,Sebastian Munoz,Sergio Garcia,Viktor Hovland,"Median['%_115', 'SG:OTT_02674', 'SG:APR_02674']",Last 5,"50,000.00",436.52
+150,Jordan Spieth,Justin Thomas,Matt Wallace,Sergio Garcia,Si Woo Kim,Will Zalatoris,"Median['SG:APR_02674', 'BIRDIE TO BOGEY RATIO_02415', 'AVG_104']",Last 5,"48,300.00",430.18
+151,Collin Morikawa,Corey Conners,Justin Thomas,Patrick Reed,Phil Mickelson,Si Woo Kim,"Median['%_103', 'SG:APR_02674', 'AVERAGE_02564']",Last 5,"49,700.00",436.9
+152,Jason Kokrak,Jordan Spieth,Matt Wallace,Paul Casey,Sergio Garcia,Will Zalatoris,"Median['AVG_104', 'AVERAGE_02674', 'AVERAGE_02675']",Last 5,"45,600.00",428.15
+153,Bryson DeChambeau,Louis Oosthuizen,Matt Wallace,Scottie Scheffler,Sergio Garcia,Viktor Hovland,"Median['AVERAGE_02674', '%_115', '%_160']",Last 5,"49,700.00",443.52
+154,Cameron Smith,Justin Thomas,Kevin Na,Matt Jones,Matt Wallace,Paul Casey,"Median['SG:ARG_02674', 'AVERAGE_02674', 'AVERAGE_02564']",Last 5,"45,700.00",443.26
+155,Bryson DeChambeau,Collin Morikawa,Corey Conners,Jason Kokrak,Jordan Spieth,Matt Wallace,"Median['SG:OTT_02674', 'AVERAGE_02675', 'AVERAGE_02674']",Last 5,"50,000.00",427.9
+156,Bryson DeChambeau,Cameron Smith,Matt Wallace,Matthew Fitzpatrick,Max Homa,Viktor Hovland,"Median['AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415', '%_160']",Last 5,"49,300.00",447.04
+157,Daniel Berger,Joaquin Niemann,Jon Rahm,Ryan Palmer,Sungjae Im,Will Zalatoris,"Median['SG:OTT_02674', 'AVG_104', 'AvgPointsPerGame']",Last 5,"49,300.00",510.73
+158,Abraham Ancer,Jon Rahm,Paul Casey,Sergio Garcia,Tommy Fleetwood,Will Zalatoris,"Median['AvgPointsPerGame', 'AVG_104', 'AVERAGE_02674']",Last 5,"49,300.00",464.48
+159,Bryson DeChambeau,Collin Morikawa,Matt Wallace,Sebastian Munoz,Sergio Garcia,Viktor Hovland,"Median['SG:OTT_02674', 'SG:APR_02674', '%_115']",Last 5,"50,000.00",436.52
+160,Brendon Todd,Bryson DeChambeau,Cameron Smith,Collin Morikawa,Matt Wallace,Viktor Hovland,"Median['%_115', 'AVERAGE_02564', 'BIRDIE TO BOGEY RATIO_02415']",Last 5,"49,900.00",453.71
+161,Bryson DeChambeau,Jason Kokrak,Justin Thomas,Matt Wallace,Paul Casey,Will Zalatoris,"Median['BIRDIE TO BOGEY RATIO_02415', 'AVERAGE_02674', 'AvgPointsPerGame']",Last 5,"49,700.00",472.72
+162,Dustin Johnson,Tony Finau,Cameron Smith,Joaquin Niemann,Will Zalatoris,Ryan Palmer,DJ Exposure,-,"50,000.00",524.8
+163,Dustin Johnson,Patrick Cantlay,Webb Simpson,Kevin Na,Martin Laird,Stewart Cink,DJ Exposure,-,"49,200.00",452.31
+164,Dustin Johnson,Matthew Fitzpatrick,Lee Westwood,Joaquin Niemann,Max Homa,Carlos Ortiz,DJ Exposure,-,"49,400.00",444.22
+165,Phil Mickelson,Dustin Johnson,Viktor Hovland,Will Zalatoris,Ryan Palmer,Sungjae Im,DJ Exposure,-,"49,200.00",491.22
