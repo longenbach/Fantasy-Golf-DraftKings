@@ -1,0 +1,157 @@
+Team,P1,P2,P3,P4,P5,P6,Sample Method,Cost,AvgPointsPerGame
+1,Jon Rahm,Patrick Cantlay,Daniel Berger,Lee Westwood,Matt Wallace,Kyoung-Hoon Lee,3,"50,000.00",402.36
+2,Jon Rahm,Corey Conners,Abraham Ancer,Shane Lowry,Jason Kokrak,Joaquin Niemann,5,"50,000.00",437.14
+3,Jon Rahm,Collin Morikawa,Paul Casey,Brian Harman,Lanto Griffin,Jimmy Walker,3,"49,300.00",401.48
+4,Jon Rahm,Viktor Hovland,Will Zalatoris,Charley Hoffman,Matt Wallace,Brendan Steele,5,"49,800.00",441
+5,Jon Rahm,Patrick Reed,Paul Casey,Marc Leishman,Lee Westwood,Charley Hoffman,4,"50,000.00",409.76
+6,Jon Rahm,Daniel Berger,Sam Burns,Shane Lowry,Branden Grace,Kyoung-Hoon Lee,Normal,"49,000.00",403.59
+7,Jon Rahm,Patrick Reed,Paul Casey,Tommy Fleetwood,Si Woo Kim,Tom Hoge,Normal,"49,900.00",398.89
+8,Jon Rahm,Collin Morikawa,Patrick Cantlay,Jhonattan Vegas,Adam Hadwin,Erik Van Rooyen,Normal,"50,000.00",392.69
+9,Jon Rahm,Daniel Berger,Sam Burns,Joaquin Niemann,Billy Horschel,Charley Hoffman,Normal,"49,300.00",445.59
+10,Jon Rahm,Corey Conners,Justin Rose,Sam Burns,Kevin Na,Charl Schwartzel,Normal,"49,100.00",402.21
+11,Jon Rahm,Tyrrell Hatton,Abraham Ancer,Sam Burns,Brian Harman,Charley Hoffman,Normal,"49,700.00",440.97
+12,Jordan Spieth,Will Zalatoris,Cameron Smith,Paul Casey,Sam Burns,Brendan Steele,3,"49,600.00",445.1
+13,Jordan Spieth,Will Zalatoris,Cameron Smith,Sam Burns,Max Homa,Brendan Steele,5,"49,000.00",432.44
+14,Jordan Spieth,Will Zalatoris,Paul Casey,Sam Burns,Marc Leishman,Lee Westwood,5,"49,800.00",416.98
+15,Jordan Spieth,Louis Oosthuizen,Paul Casey,Brian Harman,Marc Leishman,Lee Westwood,4,"49,000.00",407.4
+16,Jordan Spieth,Daniel Berger,Paul Casey,Jason Kokrak,Joaquin Niemann,Matt Jones,5,"49,300.00",442.24
+17,Jordan Spieth,Daniel Berger,Paul Casey,Sam Burns,Shane Lowry,Kyoung-Hoon Lee,Normal,"49,400.00",415.25
+18,Jordan Spieth,Will Zalatoris,Justin Rose,Cameron Smith,Max Homa,Kevin Na,Normal,"49,800.00",424.92
+19,Jordan Spieth,Tony Finau,Cameron Smith,Brian Harman,Adam Scott,Lee Westwood,Normal,"49,900.00",422.31
+20,Jordan Spieth,Collin Morikawa,Daniel Berger,Sungjae Im,Tom Hoge,Adam Hadwin,Normal,"49,800.00",404.97
+21,Jordan Spieth,Viktor Hovland,Louis Oosthuizen,Branden Grace,Stewart Cink,Carlos Ortiz,Normal,"49,700.00",423.7
+22,Jordan Spieth,Justin Thomas,Corey Conners,Kevin Streelman,Francesco Molinari,Kyoung-Hoon Lee,Normal,"49,900.00",393.99
+23,Dustin Johnson,Justin Thomas,Tyrrell Hatton,Charley Hoffman,Carlos Ortiz,Matt Jones,4,"50,000.00",436.86
+24,Dustin Johnson,Xander Schauffele,Cameron Smith,Paul Casey,Charl Schwartzel,J.T. Poston,4,"49,500.00",418.62
+25,Dustin Johnson,Hideki Matsuyama,Louis Oosthuizen,Lee Westwood,Max Homa,Charley Hoffman,3,"49,400.00",409.25
+26,Dustin Johnson,Scottie Scheffler,Corey Conners,Louis Oosthuizen,Matt Wallace,Russell Henley,5,"49,600.00",415.25
+27,Dustin Johnson,Tony Finau,Cameron Smith,Paul Casey,Marc Leishman,Brendan Steele,4,"49,400.00",429.98
+28,Dustin Johnson,Hideki Matsuyama,Daniel Berger,Marc Leishman,Stewart Cink,Adam Hadwin,Normal,"49,200.00",408.8
+29,Dustin Johnson,Justin Thomas,Corey Conners,Matt Kuchar,Kevin Na,Zach Johnson,Normal,"49,600.00",401.99
+30,Dustin Johnson,Bryson DeChambeau,Paul Casey,Si Woo Kim,Matt Jones,J.T. Poston,Normal,"49,900.00",410.96
+31,Dustin Johnson,Viktor Hovland,Abraham Ancer,Phil Mickelson,Charley Hoffman,Robert Macintyre,Normal,"49,700.00",426.37
+32,Dustin Johnson,Xander Schauffele,Paul Casey,Sam Burns,Billy Horschel,Matt Jones,Normal,"49,900.00",436.91
+33,Dustin Johnson,Rory McIlroy,Shane Lowry,Charley Hoffman,Kevin Streelman,Brendon Todd,Normal,"49,400.00",408.76
+34,Bryson DeChambeau,Patrick Cantlay,Tony Finau,Max Homa,Matt Wallace,Matt Jones,3,"49,800.00",418.86
+35,Bryson DeChambeau,Tony Finau,Corey Conners,Jason Kokrak,Lee Westwood,Kevin Na,6,"49,400.00",419.76
+36,Bryson DeChambeau,Xander Schauffele,Paul Casey,Sam Burns,Charley Hoffman,Jhonattan Vegas,3,"49,300.00",442.09
+37,Bryson DeChambeau,Patrick Cantlay,Will Zalatoris,Jason Kokrak,Lee Westwood,Brendan Steele,5,"49,500.00",432.16
+38,Bryson DeChambeau,Tony Finau,Hideki Matsuyama,Sam Burns,Russell Henley,Kyoung-Hoon Lee,3,"49,700.00",419.56
+39,Bryson DeChambeau,Patrick Cantlay,Tony Finau,Paul Casey,Ian Poulter,Wyndham Clark,Normal,"50,000.00",423.48
+40,Bryson DeChambeau,Xander Schauffele,Paul Casey,Tommy Fleetwood,Adam Scott,Bo Hoag,Normal,"49,500.00",414.77
+41,Bryson DeChambeau,Patrick Cantlay,Patrick Reed,Brian Harman,Charl Schwartzel,Erik Van Rooyen,Normal,"49,600.00",402.06
+42,Bryson DeChambeau,Webb Simpson,Daniel Berger,Marc Leishman,Max Homa,Russell Henley,Normal,"49,200.00",427.43
+43,Bryson DeChambeau,Patrick Reed,Daniel Berger,Shane Lowry,Max Homa,Matt Jones,Normal,"49,700.00",422.37
+44,Bryson DeChambeau,Justin Thomas,Corey Conners,Brian Harman,Marc Leishman,Bo Hoag,Normal,"49,800.00",413.35
+45,Brooks Koepka,Jordan Spieth,Paul Casey,Jason Kokrak,Brendan Steele,Patrick Rodgers,5,"49,500.00",396.37
+46,Brooks Koepka,Jordan Spieth,Jason Kokrak,Matt Wallace,Kevin Na,Ian Poulter,6,"49,700.00",385.1
+47,Brooks Koepka,Collin Morikawa,Paul Casey,Shane Lowry,Jason Kokrak,Lee Westwood,4,"50,000.00",402.65
+48,Brooks Koepka,Collin Morikawa,Tyrrell Hatton,Corey Conners,Charley Hoffman,Brendan Steele,3,"49,800.00",422.25
+49,Brooks Koepka,Viktor Hovland,Paul Casey,Sam Burns,Shane Lowry,Marc Leishman,4,"49,900.00",411.22
+50,Brooks Koepka,Jordan Spieth,Sam Burns,Phil Mickelson,Jhonattan Vegas,Chez Reavie,Normal,"50,000.00",372.66
+51,Brooks Koepka,Bryson DeChambeau,Cameron Smith,Max Homa,Matthew Wolff,Matt Jones,Normal,"50,000.00",410.53
+52,Brooks Koepka,Justin Thomas,Tyrrell Hatton,Sam Burns,Stewart Cink,Russell Henley,Normal,"50,000.00",420.76
+53,Brooks Koepka,Will Zalatoris,Tyrrell Hatton,Abraham Ancer,Sam Burns,Max Homa,Normal,"49,900.00",429.01
+54,Brooks Koepka,Tyrrell Hatton,Cameron Smith,Abraham Ancer,Adam Scott,Billy Horschel,Normal,"49,000.00",425.09
+55,Brooks Koepka,Jordan Spieth,Jason Kokrak,Marc Leishman,Stewart Cink,Adam Hadwin,Normal,"49,900.00",390.38
+56,Rory McIlroy,Webb Simpson,Paul Casey,Jason Kokrak,Joaquin Niemann,Adam Scott,5,"49,000.00",441.39
+57,Rory McIlroy,Will Zalatoris,Daniel Berger,Cameron Smith,Marc Leishman,Matt Jones,6,"49,300.00",437.84
+58,Rory McIlroy,Jordan Spieth,Max Homa,Si Woo Kim,Charley Hoffman,Brendan Steele,4,"49,100.00",401.52
+59,Rory McIlroy,Viktor Hovland,Cameron Smith,Paul Casey,Abraham Ancer,Matt Jones,5,"49,900.00",443.6
+60,Rory McIlroy,Collin Morikawa,Cameron Smith,Joaquin Niemann,Marc Leishman,Max Homa,6,"49,600.00",424.5
+61,Rory McIlroy,Collin Morikawa,Patrick Reed,Paul Casey,Kyoung-Hoon Lee,Victor Perez,Normal,"50,000.00",395.57
+62,Rory McIlroy,Jordan Spieth,Sam Burns,Max Homa,Stewart Cink,Jhonattan Vegas,Normal,"49,800.00",407.82
+63,Rory McIlroy,Patrick Cantlay,Abraham Ancer,Sungjae Im,Max Homa,Branden Grace,Normal,"49,000.00",405.16
+64,Rory McIlroy,Tony Finau,Justin Rose,Cameron Smith,Sungjae Im,Max Homa,Normal,"49,700.00",420.29
+65,Rory McIlroy,Viktor Hovland,Patrick Cantlay,Lee Westwood,Carlos Ortiz,Ian Poulter,Normal,"49,600.00",405.24
+66,Rory McIlroy,Patrick Reed,Scottie Scheffler,Corey Conners,Stewart Cink,Kyoung-Hoon Lee,Normal,"49,700.00",407.34
+67,Justin Thomas,Xander Schauffele,Patrick Reed,Brian Harman,Max Homa,Charley Hoffman,5,"49,900.00",436.18
+68,Justin Thomas,Hideki Matsuyama,Will Zalatoris,Cameron Smith,Lee Westwood,Charley Hoffman,5,"49,600.00",438.3
+69,Justin Thomas,Jordan Spieth,Sam Burns,Marc Leishman,Matt Wallace,Matt Jones,3,"49,800.00",404.77
+70,Justin Thomas,Collin Morikawa,Patrick Reed,Jason Kokrak,Carlos Ortiz,Ryan Palmer,3,"50,000.00",441.65
+71,Justin Thomas,Jordan Spieth,Shane Lowry,Max Homa,Charley Hoffman,Matt Jones,3,"49,700.00",412.89
+72,Justin Thomas,Patrick Cantlay,Hideki Matsuyama,Marc Leishman,Charley Hoffman,Russell Henley,Normal,"49,200.00",416.87
+73,Justin Thomas,Xander Schauffele,Patrick Cantlay,Sam Burns,Max Homa,Henrik Stenson,Normal,"49,800.00",401.46
+74,Justin Thomas,Viktor Hovland,Scottie Scheffler,Cameron Smith,Gary Woodland,J.T. Poston,Normal,"49,500.00",406.5
+75,Justin Thomas,Collin Morikawa,Tyrrell Hatton,Brian Harman,Marc Leishman,Charley Hoffman,Normal,"49,500.00",432.83
+76,Justin Thomas,Collin Morikawa,Will Zalatoris,Abraham Ancer,Matthew Wolff,Matt Jones,Normal,"49,900.00",436.53
+77,Justin Thomas,Patrick Cantlay,Louis Oosthuizen,Paul Casey,Lee Westwood,Sebastian Munoz,Normal,"49,000.00",414.1
+78,Collin Morikawa,Patrick Cantlay,Patrick Reed,Cameron Smith,Sungjae Im,J.T. Poston,Normal,"49,800.00",418.3
+79,Collin Morikawa,Viktor Hovland,Tony Finau,Paul Casey,Si Woo Kim,Kevin Streelman,Normal,"49,900.00",432.65
+80,Collin Morikawa,Hideki Matsuyama,Daniel Berger,Justin Rose,Adam Scott,Marc Leishman,Normal,"49,500.00",414.77
+81,Collin Morikawa,Xander Schauffele,Corey Conners,Abraham Ancer,Joaquin Niemann,Marc Leishman,Normal,"49,800.00",440.13
+82,Collin Morikawa,Viktor Hovland,Tony Finau,Brian Harman,Si Woo Kim,Matt Jones,Normal,"49,300.00",432.19
+83,Collin Morikawa,Brooks Koepka,Tyrrell Hatton,Louis Oosthuizen,Charley Hoffman,John Huh,Normal,"49,800.00",415.32
+84,Collin Morikawa,Bryson DeChambeau,Patrick Reed,Lee Westwood,Max Homa,Brendan Steele,6,"50,000.00",410.21
+85,Collin Morikawa,Will Zalatoris,Scottie Scheffler,Tyrrell Hatton,Shane Lowry,Russell Henley,5,"49,500.00",433.29
+86,Collin Morikawa,Viktor Hovland,Patrick Cantlay,Sam Burns,Stewart Cink,Brendan Steele,3,"49,200.00",433.83
+87,Collin Morikawa,Jordan Spieth,Paul Casey,Abraham Ancer,Matt Jones,Adam Hadwin,5,"49,900.00",415.29
+88,Xander Schauffele,Jordan Spieth,Paul Casey,Max Homa,Matt Kuchar,Tom Hoge,Normal,"49,200.00",396.09
+89,Xander Schauffele,Viktor Hovland,Scottie Scheffler,Cameron Smith,Shane Lowry,Lee Westwood,Normal,"49,900.00",429
+90,Xander Schauffele,Collin Morikawa,Louis Oosthuizen,Gary Woodland,Bubba Watson,Charley Hoffman,Normal,"49,000.00",406.67
+91,Xander Schauffele,Will Zalatoris,Scottie Scheffler,Louis Oosthuizen,Shane Lowry,Marc Leishman,Normal,"49,500.00",431.56
+92,Xander Schauffele,Brooks Koepka,Rory McIlroy,Charley Hoffman,Tom Hoge,Bo Hoag,Normal,"49,900.00",388.38
+93,Xander Schauffele,Tony Finau,Daniel Berger,Louis Oosthuizen,Cameron Smith,Lee Westwood,Normal,"50,000.00",444.44
+94,Xander Schauffele,Bryson DeChambeau,Louis Oosthuizen,Max Homa,Stewart Cink,Carlos Ortiz,4,"49,400.00",437.29
+95,Xander Schauffele,Collin Morikawa,Viktor Hovland,Paul Casey,Charley Hoffman,Brendan Steele,5,"49,600.00",449.28
+96,Xander Schauffele,Collin Morikawa,Will Zalatoris,Abraham Ancer,Sam Burns,Charl Schwartzel,4,"50,000.00",441.47
+97,Xander Schauffele,Jordan Spieth,Patrick Cantlay,Matt Wallace,Kyoung-Hoon Lee,Adam Hadwin,3,"50,000.00",397.69
+98,Xander Schauffele,Will Zalatoris,Corey Conners,Paul Casey,Abraham Ancer,Adam Scott,6,"49,300.00",452.93
+99,Viktor Hovland,Jordan Spieth,Cameron Smith,Abraham Ancer,Si Woo Kim,J.T. Poston,Normal,"49,900.00",417.98
+100,Viktor Hovland,Jordan Spieth,Gary Woodland,Lee Westwood,Billy Horschel,Matt Jones,Normal,"49,200.00",392.08
+101,Viktor Hovland,Patrick Cantlay,Webb Simpson,Daniel Berger,Carlos Ortiz,Charl Schwartzel,Normal,"49,500.00",439.37
+102,Viktor Hovland,Collin Morikawa,Xander Schauffele,Shane Lowry,Branden Grace,Matt Wallace,Normal,"49,900.00",418.46
+103,Viktor Hovland,Xander Schauffele,Patrick Cantlay,Sungjae Im,Gary Woodland,Charley Hoffman,Normal,"49,900.00",426.55
+104,Viktor Hovland,Xander Schauffele,Louis Oosthuizen,Cameron Smith,Brian Harman,Charl Schwartzel,Normal,"49,000.00",443.89
+105,Viktor Hovland,Patrick Cantlay,Tony Finau,Jason Kokrak,Joaquin Niemann,Jhonattan Vegas,6,"49,100.00",445.05
+106,Viktor Hovland,Justin Thomas,Corey Conners,Cameron Smith,Sam Burns,Kyoung-Hoon Lee,3,"49,700.00",436.71
+107,Viktor Hovland,Bryson DeChambeau,Phil Mickelson,Jason Kokrak,Max Homa,Charley Hoffman,6,"49,400.00",428.46
+108,Patrick Cantlay,Jon Rahm,Cameron Smith,Bubba Watson,Kevin Streelman,Cameron Champ,Normal,"49,800.00",400.2
+109,Patrick Cantlay,Justin Thomas,Webb Simpson,Sungjae Im,Harris English,Carlos Ortiz,Normal,"49,500.00",441.75
+110,Patrick Cantlay,Jon Rahm,Marc Leishman,Max Homa,Si Woo Kim,Kyoung-Hoon Lee,Normal,"49,200.00",391.08
+111,Patrick Cantlay,Justin Thomas,Hideki Matsuyama,Tyrrell Hatton,Christiaan Bezuidenhout,Sebastian Munoz,Normal,"50,000.00",420.8
+112,Patrick Cantlay,Bryson DeChambeau,Cameron Smith,Sam Burns,Charley Hoffman,Russell Henley,Normal,"49,400.00",439.22
+113,Patrick Cantlay,Rory McIlroy,Daniel Berger,Abraham Ancer,Joaquin Niemann,Branden Grace,Normal,"50,000.00",431.7
+114,Patrick Cantlay,Bryson DeChambeau,Paul Casey,Shane Lowry,Brian Harman,Kevin Na,Normal,"49,400.00",427.49
+115,Patrick Cantlay,Tony Finau,Webb Simpson,Louis Oosthuizen,Bubba Watson,Si Woo Kim,Normal,"49,500.00",420.74
+116,Patrick Cantlay,Collin Morikawa,Xander Schauffele,Daniel Berger,Kyoung-Hoon Lee,Adam Hadwin,Normal,"49,900.00",420.36
+117,Patrick Reed,Viktor Hovland,Patrick Cantlay,Louis Oosthuizen,Francesco Molinari,Wyndham Clark,Normal,"49,200.00",410.59
+118,Patrick Reed,Viktor Hovland,Tony Finau,Scottie Scheffler,Harris English,Charl Schwartzel,Normal,"49,900.00",426.56
+119,Patrick Reed,Xander Schauffele,Webb Simpson,Paul Casey,Tommy Fleetwood,Max Homa,Normal,"50,000.00",429.54
+120,Patrick Reed,Collin Morikawa,Xander Schauffele,Louis Oosthuizen,Russell Henley,John Huh,Normal,"49,500.00",421.64
+121,Patrick Reed,Patrick Cantlay,Will Zalatoris,Daniel Berger,Bubba Watson,Mackenzie Hughes,Normal,"49,200.00",416.46
+122,Patrick Reed,Patrick Cantlay,Daniel Berger,Tyrrell Hatton,Shane Lowry,Si Woo Kim,Normal,"49,700.00",422.81
+123,Patrick Reed,Rory McIlroy,Scottie Scheffler,Justin Rose,Brian Harman,Charley Hoffman,Normal,"50,000.00",416.62
+124,Tony Finau,Bryson DeChambeau,Cameron Smith,Joaquin Niemann,Marc Leishman,Lee Westwood,Normal,"49,500.00",429.84
+125,Tony Finau,Xander Schauffele,Patrick Cantlay,Cameron Smith,Marc Leishman,Max Homa,Normal,"50,000.00",431.91
+126,Tony Finau,Rory McIlroy,Patrick Cantlay,Sam Burns,Charley Hoffman,Kevin Na,Normal,"49,800.00",423.27
+127,Tony Finau,Patrick Reed,Webb Simpson,Justin Rose,Sam Burns,Phil Mickelson,Normal,"50,000.00",418.56
+128,Tony Finau,Justin Thomas,Patrick Reed,Webb Simpson,Lanto Griffin,Bo Hoag,Normal,"49,800.00",411.72
+129,Tony Finau,Collin Morikawa,Xander Schauffele,Phil Mickelson,Bubba Watson,Matt Wallace,Normal,"49,900.00",408.63
+130,Tony Finau,Jordan Spieth,Shane Lowry,Sungjae Im,Matt Wallace,Robert Macintyre,Normal,"49,100.00",404.58
+131,Jon Rahm,Xander Schauffele,Cameron Smith,Sungjae Im,Kyoung-Hoon Lee,Adam Hadwin,Normal,"49,700.00",419
+132,Jon Rahm,Viktor Hovland,Scottie Scheffler,Ryan Palmer,Kevin Na,Jhonattan Vegas,Normal,"49,800.00",432.77
+133,Jon Rahm,Xander Schauffele,Joaquin Niemann,Lee Westwood,Kevin Na,Matt Jones,Normal,"49,300.00",421.67
+134,Jon Rahm,Webb Simpson,Louis Oosthuizen,Brian Harman,Harris English,Matt Wallace,Normal,"49,800.00",436.05
+135,Jon Rahm,Scottie Scheffler,Daniel Berger,Cameron Smith,Branden Grace,J.T. Poston,Normal,"49,900.00",413.69
+136,Will Zalatoris,Jordan Spieth,Rory McIlroy,Si Woo Kim,Wyndham Clark,J.T. Poston,Normal,"50,000.00",401.13
+137,Will Zalatoris,Bryson DeChambeau,Daniel Berger,Sam Burns,Si Woo Kim,Matt Jones,Normal,"49,400.00",442.29
+138,Will Zalatoris,Xander Schauffele,Patrick Cantlay,Abraham Ancer,Charley Hoffman,Sebastian Munoz,Normal,"49,000.00",443.74
+139,Will Zalatoris,Jordan Spieth,Justin Rose,Cameron Smith,Brian Harman,Kevin Na,Normal,"49,900.00",435.02
+140,Bryson DeChambeau,Viktor Hovland,Patrick Cantlay,Gary Woodland,Kevin Na,Victor Perez,Normal - No Force,"50,000.00",397.01
+141,Justin Thomas,Viktor Hovland,Abraham Ancer,Sam Burns,Phil Mickelson,Max Homa,Normal - No Force,"49,500.00",423.66
+142,Justin Thomas,Patrick Cantlay,Webb Simpson,Louis Oosthuizen,Francesco Molinari,Carlos Ortiz,Normal - No Force,"49,800.00",424.43
+143,Jon Rahm,Collin Morikawa,Brian Harman,Marc Leishman,Stewart Cink,Carlos Ortiz,Normal - No Force,"49,800.00",424.2
+144,Collin Morikawa,Patrick Cantlay,Tony Finau,Phil Mickelson,Shane Lowry,Charl Schwartzel,Normal - No Force,"49,800.00",403.57
+145,Collin Morikawa,Patrick Cantlay,Daniel Berger,Abraham Ancer,Jason Kokrak,Kyoung-Hoon Lee,Normal - No Force,"49,400.00",429.1
+146,Brooks Koepka,Tony Finau,Daniel Berger,Jason Kokrak,Harris English,Francesco Molinari,Normal - No Force,"49,400.00",412.96
+147,Xander Schauffele,Patrick Cantlay,Scottie Scheffler,Tyrrell Hatton,Adam Scott,Si Woo Kim,Normal - No Force,"49,900.00",428.23
+148,Jon Rahm,Cameron Smith,Paul Casey,Phil Mickelson,Charley Hoffman,Carlos Ortiz,Normal - No Force,"49,100.00",430.01
+149,Brooks Koepka,Patrick Reed,Daniel Berger,Sungjae Im,Lee Westwood,Max Homa,Normal - No Force,"49,700.00",399.34
+150,Justin Thomas,Xander Schauffele,Daniel Berger,Corey Conners,Max Homa,Bernd Wiesberger,Normal - No Force,"49,700.00",435.45
+151,Dustin Johnson,Justin Thomas,Phil Mickelson,Max Homa,Branden Grace,Kevin Na,Normal - No Force,"49,600.00",396.21
+152,Rory McIlroy,Collin Morikawa,Patrick Cantlay,Joaquin Niemann,Branden Grace,J.T. Poston,Normal - No Force,"49,800.00",405.85
+153,Jordan Spieth,Patrick Cantlay,Corey Conners,Francesco Molinari,Matt Jones,Russell Henley,Normal - No Force,"49,300.00",399.15
+154,Brooks Koepka,Patrick Reed,Cameron Smith,Sam Burns,Marc Leishman,Victor Perez,Normal - No Force,"49,000.00",388.09
+155,Dustin Johnson,Hideki Matsuyama,Abraham Ancer,Shane Lowry,Cameron Champ,Matt Jones,Normal - No Force,"49,000.00",396.87
+156,Jon Rahm,Rory McIlroy,Max Homa,Stewart Cink,Kevin Na,Chez Reavie,Normal - No Force,"49,400.00",387.78
