@@ -48,7 +48,7 @@ Team,P1,P2,P3,P4,P5,P6,Sample Method,Cost,AvgPointsPerGame
 47,Xander Schauffele,Jordan Spieth,Patrick Reed,Abraham Ancer,Brendan Steele,Talor Gooch,Normal fixed Xander Schauffele,"49,500.00",421.12
 48,Xander Schauffele,Brooks Koepka,Tyrrell Hatton,Charley Hoffman,Lanto Griffin,Emiliano Grillo,Normal fixed Xander Schauffele,"49,800.00",414.76
 49,Xander Schauffele,Patrick Cantlay,Patrick Reed,Marc Leishman,Daniel Berger,Kevin Streelman,Normal fixed Xander Schauffele,"49,600.00",423.6
-50,Bryson DeChambeau,Bryson DeChambeau,Collin Morikawa,Brian Harman,Brendan Steele,Charley Hoffman,Normal fixed Bryson DeChambeau,"49,600.00",433.51
+50,Bryson DeChambeau,Xander Schauffele,Collin Morikawa,Brian Harman,Brendan Steele,Charley Hoffman,Normal fixed Bryson DeChambeau,"49,700.00",436.91
 51,Bryson DeChambeau,Collin Morikawa,Patrick Reed,Marc Leishman,Russell Henley,Corey Conners,Normal fixed Bryson DeChambeau,"49,900.00",419.83
 52,Bryson DeChambeau,Jon Rahm,Garrick Higgo,Gary Woodland,Harris English,Joel Dahmen,Normal fixed Bryson DeChambeau,"49,900.00",410.84
 53,Bryson DeChambeau,Collin Morikawa,Patrick Reed,Marc Leishman,Danny Willett,Billy Horschel,Normal fixed Bryson DeChambeau,"49,700.00",402.28
@@ -58,7 +58,7 @@ Team,P1,P2,P3,P4,P5,P6,Sample Method,Cost,AvgPointsPerGame
 57,Bryson DeChambeau,Jordan Spieth,Justin Thomas,Erik Van Rooyen,Ryan Palmer,Joel Dahmen,Normal fixed Bryson DeChambeau,"49,800.00",407.61
 58,Bryson DeChambeau,Collin Morikawa,Viktor Hovland,Jason Kokrak,Matt Jones,Keegan Bradley,Normal fixed Bryson DeChambeau,"49,000.00",430.71
 59,Bryson DeChambeau,Jon Rahm,Justin Rose,Daniel Berger,C.T. Pan,Sebastian Munoz,Normal fixed Bryson DeChambeau,"49,600.00",410.79
-60,Jordan Spieth,Jordan Spieth,Will Zalatoris,Matt Fitzpatrick,Danny Willett,Rafa Cabrera Bello,Normal fixed Jordan Spieth,"49,800.00",398.23
+60,Jordan Spieth,Bryson DeChambeau,Will Zalatoris,Matt Fitzpatrick,Danny Willett,Rafa Cabrera Bello,Normal fixed Jordan Spieth,"50,000.00",402.76
 61,Jordan Spieth,Viktor Hovland,Patrick Reed,Justin Rose,Matt Kuchar,Stewart Cink,Normal fixed Jordan Spieth,"49,500.00",402.1
 62,Jordan Spieth,Jon Rahm,Daniel Berger,Russell Henley,Lucas Herbert,Keegan Bradley,Normal fixed Jordan Spieth,"49,200.00",424.61
 63,Jordan Spieth,Xander Schauffele,Matt Fitzpatrick,Lee Westwood,Francesco Molinari,Charley Hoffman,Normal fixed Jordan Spieth,"49,200.00",395.06
@@ -88,7 +88,7 @@ Team,P1,P2,P3,P4,P5,P6,Sample Method,Cost,AvgPointsPerGame
 87,Louis Oosthuizen,Bryson DeChambeau,Scottie Scheffler,Justin Rose,Harris English,Jason Kokrak,Normal fixed Louis Oosthuizen,"49,900.00",427.92
 88,Louis Oosthuizen,Xander Schauffele,Viktor Hovland,Joaquin Niemann,Erik Van Rooyen,Lanto Griffin,Normal fixed Louis Oosthuizen,"49,800.00",418.33
 89,Louis Oosthuizen,Jon Rahm,Paul Casey,Padraig Harrington,Joel Dahmen,Lucas Glover,Normal fixed Louis Oosthuizen,"49,400.00",398.57
-90,Collin Morikawa,Rory McIlroy,Collin Morikawa,Matt Wallace,Brendon Todd,Sebastian Munoz,Normal fixed Collin Morikawa,"49,900.00",397.26
+90,Collin Morikawa,Rory McIlroy,Louis Oosthuizen,Matt Wallace,Brendon Todd,Sebastian Munoz,Normal fixed Collin Morikawa,"50,000.00",395.42
 91,Collin Morikawa,Bryson DeChambeau,Tyrrell Hatton,Russell Henley,Stewart Cink,Kevin Streelman,Normal fixed Collin Morikawa,"49,000.00",420.46
 92,Collin Morikawa,Xander Schauffele,Scottie Scheffler,Cameron Smith,Marc Leishman,Billy Horschel,Normal fixed Collin Morikawa,"49,900.00",428.87
 93,Collin Morikawa,Jordan Spieth,Louis Oosthuizen,Rickie Fowler,Brian Harman,Lanto Griffin,Normal fixed Collin Morikawa,"49,300.00",406.17
